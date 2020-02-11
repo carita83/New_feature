@@ -1,1 +1,3 @@
-# New_feature
+# maven-project
+
+Simple Maven Project
